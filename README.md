@@ -1,1 +1,6 @@
-Your IP should be here... Adding lines to README. This is a repo for demonstrating git and Github.
+# my-rpi
+
+As of Fri Oct  9 11:49:23 AM PDT 2026, my Raspberry-Pi has the following IP:
+
+- wlo1 : 172.20.20.20 [SSH](ssh://ferree@172.20.20.20) [SFTP](sftp://ferree@172.20.20.20)
+- docker0 : 172.17.0.1 [SSH](ssh://ferree@172.17.0.1) [SFTP](sftp://ferree@172.17.0.1)
