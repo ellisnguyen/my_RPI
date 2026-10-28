@@ -13,8 +13,7 @@ from pathlib import Path
 # ==========================================================
 
 # Change this to your local GitHub repository directory.
-REPO_DIR = Path.home() / "raspberrypi-monitor"
-
+REPO_DIR = Path(__file__).resolve().parent.parent
 HISTORY_FILE = REPO_DIR / "internet_history.csv"
 
 # Check connectivity every 30 seconds.
