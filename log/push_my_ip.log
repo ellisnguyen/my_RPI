@@ -1,5 +1,10 @@
-Wed Nov 25 10:46:50 PM PST 2026 : start main with timestamp: Wed Nov 25 10:46:50 PM PST 2026
-Wed Nov 25 10:46:52 PM PST 2026 : start get_my_ips
-Wed Nov 25 10:46:52 PM PST 2026 : IP found:
-Wed Nov 25 10:46:52 PM PST 2026 : - wlan0 : 10.0.0.18 [SSH](ssh://enguyen19@10.0.0.18) [SFTP](sftp://enguyen19@10.0.0.18) - Signal strength: 51%
-Wed Nov 25 10:46:52 PM PST 2026 : committing to git repo
+Wed Nov 25 10:47:29 PM PST 2026 : waiting for time sync 5s
+Wed Nov 25 10:47:34 PM PST 2026 : waiting for time sync 5s
+Wed Nov 25 10:47:39 PM PST 2026 : waiting for time sync 5s
+Wed Nov 25 10:47:44 PM PST 2026 : waiting for time sync 5s
+Wed Nov 25 10:47:49 PM PST 2026 : waiting for time sync 5s
+Wed Nov 25 10:47:54 PM PST 2026 : start main with timestamp: Wed Nov 25 10:47:54 PM PST 2026
+Wed Nov 25 10:47:55 PM PST 2026 : start get_my_ips
+Wed Nov 25 10:47:55 PM PST 2026 : IP found:
+Wed Nov 25 10:47:55 PM PST 2026 : - wlan0 : 10.0.0.18 [SSH](ssh://enguyen19@10.0.0.18) [SFTP](sftp://enguyen19@10.0.0.18) - Signal strength: 54%
+Wed Nov 25 10:47:55 PM PST 2026 : committing to git repo
